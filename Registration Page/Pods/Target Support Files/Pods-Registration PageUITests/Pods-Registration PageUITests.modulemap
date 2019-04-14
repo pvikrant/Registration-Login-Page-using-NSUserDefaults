@@ -1,0 +1,6 @@
+framework module Pods_Registration_PageUITests {
+  umbrella header "Pods-Registration PageUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

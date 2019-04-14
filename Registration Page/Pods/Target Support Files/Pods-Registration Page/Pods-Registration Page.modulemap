@@ -1,0 +1,6 @@
+framework module Pods_Registration_Page {
+  umbrella header "Pods-Registration Page-umbrella.h"
+
+  export *
+  module * { export * }
+}
